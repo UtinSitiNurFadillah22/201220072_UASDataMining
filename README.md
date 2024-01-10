@@ -26,5 +26,5 @@ Classifier webapp dibangun dengan menggunakan Streamlit (Python-framework). Tuju
 * GitHub
 
 ## References
-* For Dataset [Kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
+* For Dataset [Kaggle](https://www.kaggle.com/datasets/utinsitinurfadillah/price-range-phone)
 * For UI [Streamlit](https://streamlit.io/)
